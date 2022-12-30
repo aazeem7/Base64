@@ -12,6 +12,6 @@
   "license": "ISC",
   "devDependencies": {
     "browserify": "^16.5.0",
-    "mocha": "^6.2.0"
+    "mocha": "^10.2.0"
   }
 }
